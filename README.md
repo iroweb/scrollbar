@@ -6,15 +6,15 @@ Customizable Scrollbar
 * Get jquery
 
 ## How to use  
-* HTML  
-add class to scrollable tag  
+### HTML  
+* add class to scrollable tag  
 `class="scrollText"`  
 
-* CSS  
-basic scrollbar color  
+### CSS  
+* basic scrollbar color  
 `.bar{background: #d4e8f3;}`
 
-each scrollbar color  
+* each scrollbar color  
 `.type?{background: blue;}`  
 ? 0～number you added scrollText class  
 
