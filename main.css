@@ -1,0 +1,40 @@
+﻿@charset "UTF-8";
+
+.container,
+.scrollText,
+.barContainer,
+.bar
+{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	height: 100px;
+	position: relative;
+	width: 300px;
+}
+
+.scrollText{
+	padding: 0 10px 0 0;
+	position: absolute;
+}
+
+.barContainer{
+	height: 100%;
+	position: absolute;
+	right: 0;
+	width: 10px;
+}
+
+.bar{
+	background: #d4e8f3;
+	border-radius: 20px;
+	height: 50px;
+	position: absolute;
+	width: 100%;
+}
+
+.type1{
+	background: blue;
+}
